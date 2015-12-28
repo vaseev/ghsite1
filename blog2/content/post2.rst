@@ -1,19 +1,18 @@
 Starting with Pelican
 #####################
-:date: 2012-03-30 23:47
+:date: 2015-12-27 22:57
 :category: programming
 :tags: python, blog, rst, pelican
 :author: Vasee\.Vinayagamoorthy
-:excerpt: This is an excerpt of my post.
+:excerpt: This is an excerpt.
 
 Introduction
 ------------
 
 Hi!
 
-This is my first rst post!
+This is one of my first rst posts.
 
-And this is a link to a page_
+Here is a link to a page_
 
-
-.. _page: http://moliware.com/
+.. _page: http://www.bbc.com
